@@ -1,0 +1,17 @@
+﻿<settings>
+  <servers>
+    <server>
+      <id>nexus</id>
+      <username>admin</username>
+      <password>passer123</password>
+      <configuration>
+        <httpHeaders>
+          <property>
+            <name>ngrok-skip-browser-warning</name>
+            <value>true</value>
+          </property>
+        </httpHeaders>
+      </configuration>
+    </server>
+  </servers>
+</settings>
